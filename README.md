@@ -7,4 +7,8 @@ git checkout -b branch-example<br>
 git status<br>
 git add .<br><br>
 restore git<br>
-git restore --staged file.xx<br>
+git restore --staged file.xx<br><br>
+
+**git commit**<br>
+git commit -m "Add text.txt"<br>
+git push -u origin branch-example
